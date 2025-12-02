@@ -24,16 +24,21 @@ A → Marks ≥ 90
 B → Marks ≥ 75
 C → Marks ≥ 60
 D → Marks < 60
+
 🧰 Technologies Used
-Java (JDK 8 or above)
-OOP Concepts
-ArrayList for storing multiple records
-Scanner for user input
-Conditionals and Loops
+
+1. Java (JDK 8 or above)
+2. OOP Concepts
+3. ArrayList for storing multiple records
+4. Scanner for user input
+4. Conditionals and Loops
+
 📂 Project Structure
-Student.java
-MainApp.java
-Student.java
+
+-> Student.java
+-> MainApp.java
+-> Student.java
+
 Contains the Student class with:
 
 Fields: rollNo, name, course, marks, grade
@@ -49,23 +54,31 @@ MainApp.java
 Contains:
 
 The main menu
+
 ArrayList for managing multiple students
 Logic for add/display/exit operations
+
 ▶️ How to Run the Program
-Ensure Java JDK is installed
-Save both files (Student.java and MainApp.java) in the same folder
-Open a terminal or command prompt
-Compile using:
+1. Ensure Java JDK is installed
+2. Save both files (Student.java and MainApp.java) in the same folder
+3. Open a terminal or command prompt
+4.Compile using:
+
 javac *.java
-Run the application:
+
+5. Run the application:
+
 java MainApp
+
 📝 Sample Menu Output
 ===== Student Record Menu =====
 1. Add Student
 2. Display All Students
 3. Exit
 Enter your choice:
+
 🎯 Learning Outcomes
+
 By completing this project, you will understand:
 
 Class and object creation
